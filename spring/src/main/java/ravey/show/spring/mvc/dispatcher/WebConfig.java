@@ -1,4 +1,4 @@
-package ravey.show.spring.mvc;
+package ravey.show.spring.mvc.dispatcher;
 
 import org.springframework.boot.autoconfigure.web.ServerProperties;
 import org.springframework.boot.autoconfigure.web.servlet.DispatcherServletRegistrationBean;

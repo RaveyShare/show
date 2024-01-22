@@ -1,4 +1,4 @@
-package ravey.show.spring.mvc;
+package ravey.show.spring.mvc.dispatcher;
 
 import org.springframework.boot.env.YamlPropertySourceLoader;
 import org.springframework.core.env.PropertySource;

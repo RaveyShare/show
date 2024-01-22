@@ -1,4 +1,4 @@
-package ravey.show.spring.mvc;
+package ravey.show.spring.mvc.dispatcher;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext;
